@@ -1,0 +1,3 @@
+﻿  Send_e_rec_MPI.cpp
+C:\Users\Raynê\Documents\Visual Studio 2022\checar_paridade_de_arquivo_binário\Send_e_rec_MPI.cpp(16,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Raynê\Documents\Visual Studio 2022\checar_paridade_de_arquivo_binário\x64\Debug\Send_e_rec_MPI.exe
